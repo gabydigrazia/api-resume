@@ -1,0 +1,167 @@
+{
+    "data": {
+      "name": "Gaby Di Grazia",
+      "profession": "Frontend Developer",
+      "address": "Buenos Aires, Argentina.",
+      "email": "mgdigrazia@gmail.com",
+      "website": "https://sites.google.com/view/gabydigrazia-portfolio-english",
+      "phone": "(54) 11 2386 4519",
+      "avatar": "https://i.imgur.com/vm2EP0i.jpg",
+      "Profile": "Frontend Developer with 3 years of experience building and maintaining responsive web applications in fast-paced, collaborative environments. Proficient in HTML, CSS, TypeScript, Angular, and working knowledge of React and Native JavaScrip. Ability to work with REST API’s to fetch receive/post data. Experience working with Agile and Kanban methodologies. Passionate about learning and professional growth.",
+      "certificate": [
+        {
+          "id": 1,
+          "date": "Mar 2021",
+          "description": "In this course we will take the frontend built in the JavaScript School Frontend Course and implement it all by taking it to React components",
+          "institution": "Platzi",
+          "name": "React JS"
+        },
+        {
+          "id": 2,
+          "date": "Mar 2021",
+          "description": "This course covers the essentials of using the version control system Git and GitHub Repository.",
+          "institution": "Platzi",
+          "name": "Git & GitHub"
+        },
+        {
+          "id": 3,
+          "date": "Aug 2020",
+          "description": "This course will teach you JavaScript from basic.",
+          "institution": "Platzi",
+          "name": "Javascript Basic Course"
+        }
+      ],
+      "Academic": [
+        {
+          "id": 4,
+          "degree": "Analyst Programmer",
+          "description": "Programmer Analyst will be able to develop planning, acquisition, compilation, classification, and integration tasks of the information that makes up a system, including hardware and communications, as well as to select the programming paradigm from which to focus the construction processes of software.",
+          "endDate": "2004",
+          "institution": "UNLPam University",
+          "startDate": "2000"
+        }
+      ],
+      "experience": [
+        {
+          "id": 5,
+          "company": "Oxirium SA",
+          "endDate": "Present",
+          "jobDescription": "Develop new products in Angular 11 for logistic tracking. Integration with i18n, Google Maps, Social Networks sing in, and Chart js libraries. Collaborating closely with backend team and designers. Active participation in product decisions. Working with APIs for data consumption.",
+          "jobTitle": "Frontend Developer",
+          "startDate": "Nov 2020"
+        },
+        {
+          "id": 6,
+          "company": "Loger SRL",
+          "endDate": "Present",
+          "jobDescription": "Taking part as freelancer in the development of a Smart City Dashboard. Write well-designed, efficient code by using best software development practices.  Integration with i18n, Google Maps, and Chart js libraries. API consuming.",
+          "jobTitle": "Freelance Frontend Developer",
+          "startDate": "Jul 2020"
+        },
+        {
+          "id": 7,
+          "company": "Rockstar Solutions",
+          "endDate": "Oct 2020",
+          "jobDescription": "Develop Angular App writing efficient code. Integration with backend. API consuming. Collaborate with other team members and stakeholders. Magento e-Commerce site maintenance. Bulk product loading and monthly and special dates website updates. Catalog management (prices and catalog rules). Collaborate in some custom modules development. ",
+          "jobTitle": "Frontend Developer",
+          "startDate": "Mar 2018"
+        }
+      ],
+      "skills": [
+        {
+          "id": 8,
+          "name": "HTML5",
+          "percentage": "75%"
+        },
+        {
+          "id": 9,
+          "name": "CSS",
+          "percentage": "75%"
+        },
+        {
+          "id": 10,
+          "name": "JavaScript",
+          "percentage": "55%"
+        },
+        {
+          "id": 11,
+          "name": "TypeScript",
+          "percentage": "55%"
+        },
+        {
+          "id": 12,
+          "name": "Angular",
+          "percentage": "75%"
+        },
+        {
+          "id": 13,
+          "name": "React",
+          "percentage": "25%"
+        }
+      ],
+      "interest": [
+        {
+          "id": 14,
+          "name":  "javascript"
+        },
+        {
+          "id": 15,
+          "name":  "react"
+        },
+        {
+          "id": 16,
+          "name":  "develop"
+        },
+        {
+          "id": 17,
+          "name":  "backend"
+        },
+        {
+          "id": 18,
+          "name":  "frontend"
+        },
+        {
+          "id": 19,
+          "name":  "design"
+        },
+        {
+          "id": 20,
+          "name":  "ux-ui"
+        },
+        {
+          "id": 21,
+          "name":  "english"
+        }
+      ],
+      "languages": [
+        {
+          "id": 22,
+          "name": "Spanish",
+          "percentage": "100%"
+        },
+        {
+          "id": 23,
+          "name": "English",
+          "percentage": "70%"
+        }
+      ],
+      "social": [
+        {
+          "id": 24,
+          "name": "twitter",
+          "url": "https://twitter.com/gabydigrazia"
+        },
+        {
+          "id": 25,
+          "name": "github",
+          "url": "https://github.com/gabydigrazia"
+        },
+        {
+          "id": 26,
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/gaby-di-grazia/"
+        }
+      ]
+    }
+  }
+  
